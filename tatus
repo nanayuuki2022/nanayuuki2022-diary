@@ -1,0 +1,29 @@
+[33mcommit 1ae5cac3b7def110ff71c8c516fa3b9862df0cdd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: nanayuuki2022 <nanayuuki2022@gmail.com>
+Date:   Sun Sep 4 11:30:34 2022 +0900
+
+    ひとこと日記帳を実装
+
+[33mcommit acabaca245b74088a6c95c9108844f85e5150960[m
+Author: nanayuuki2022 <nanayuuki2022@gmail.com>
+Date:   Tue Aug 23 11:51:10 2022 +0900
+
+    firebaseアプリの初期設定を追加
+
+[33mcommit c9e5d595de65e00c691dcbb7ffe6207907e6b6cd[m
+Author: nanayuuki2022 <nanayuuki2022@gmail.com>
+Date:   Tue Aug 23 11:11:28 2022 +0900
+
+    firebaseの初期設定ファイルを追加
+
+[33mcommit b4cce6a273dee1fe5d0afd259ef686cbb17b444f[m
+Author: nanayuuki2022 <nanayuuki2022@gmail.com>
+Date:   Tue Aug 23 10:48:22 2022 +0900
+
+    Next.jsの静的ファイル出力設定を追加
+
+[33mcommit ec5ea0a0f3b4c720213f8b7ba6a59962edb4cc41[m
+Author: nanayuuki2022 <nanayuuki2022@gmail.com>
+Date:   Mon Aug 22 20:20:46 2022 +0900
+
+    Initial commit from Create Next App
