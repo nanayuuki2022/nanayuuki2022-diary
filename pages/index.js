@@ -31,7 +31,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1>ひとこと日記帳</h1>
+        <h1>ひとこと日記帳へようこそ！</h1>
 
         <div className={styles.grid}>
           {articles.map((article)=> {
